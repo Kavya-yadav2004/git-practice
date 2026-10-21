@@ -1,1 +1,1 @@
-print("Welcome to the f2.py!!")
+print("Welcome to the f2.py project!!")
